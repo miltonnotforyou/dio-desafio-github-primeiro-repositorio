@@ -8,3 +8,5 @@ Desafio de projeto sobre Git/Github proposto pelo  Bootcamp Potência Tech power
 
 ## Links úteis
 [Sintaxe básica Maarkdowh](https://www.markdownguide.org/)
+
+[Java Básico](https://glysns.gitbook.io/java-basico/)
